@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background: #F1F5F8;
+}
+
+.container {
+    position: relative;
+}
+
+.container .middle {
+    width: 75px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.container .active {
+    width: 75px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -25%) rotate(-60deg);
+    z-index: 1;
+}

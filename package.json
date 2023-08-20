@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "mix",
+        "watch": "mix watch",
+        "production": "mix"
+    },
+    "dependencies": {
+        "canvas-confetti": "^1.6.0",
+        "animejs": "^3.0.0"
+    },
+    "devDependencies": {
+        "laravel-mix": "^6.0.49"
+    }
+}

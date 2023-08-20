@@ -1,0 +1,12 @@
+{
+    "/js/first/app.js": "/js/first/app.js",
+    "/js/second/app.js": "/js/second/app.js",
+    "/js/third/app.js": "/js/third/app.js",
+    "/js/fourth/app.js": "/js/fourth/app.js",
+    "/js/fifth/app.js": "/js/fifth/app.js",
+    "/css/fifth/app.css": "/css/fifth/app.css",
+    "/css/fourth/app.css": "/css/fourth/app.css",
+    "/css/third/app.css": "/css/third/app.css",
+    "/css/second/app.css": "/css/second/app.css",
+    "/css/first/app.css": "/css/first/app.css"
+}

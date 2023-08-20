@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="7.223 6.019 201.809 203.013" xmlns="http://www.w3.org/2000/svg">
+  <g class="middle">
+    <g id="shadow-1" opacity="0.2">
+      <circle cx="108.5" cy="108.5" r="100"/>
+    </g>
+    <g class="wheelMiddle">
+      <circle cx="108" cy="108" r="100" fill="#fff" style="" transform="matrix(0.995988, 0, 0, 1, 0.433343, 0)"/>
+    </g>
+    <circle id="middle-3" cx="108" cy="108" r="20" fill="#ccc"/>
+  </g>
+</svg>
